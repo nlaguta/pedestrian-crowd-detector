@@ -1,0 +1,17 @@
+# Исправьте путь path на вашу папку с датасетом.
+# Структура датасета:
+# path/
+#   images/train
+#   images/val
+#   images/test
+#   labels/train
+#   labels/val
+#   labels/test
+
+path: D:/datasets/crowdhuman_yolo
+train: images/train
+val: images/val
+test: images/val
+
+names:
+  0: person

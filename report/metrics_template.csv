@@ -1,0 +1,6 @@
+model,epochs,imgsz,batch,precision,recall,f1,map50,map50_95,inference_ms,model_size_mb,comment
+YOLOv5u,30,640,8,,,,,,,,,
+YOLOv8,30,640,8,,,,,,,,,
+YOLOv9,30,640,8,,,,,,,,,
+YOLOv10/YOLO11,30,640,8,,,,,,,,,
+RT-DETR,30,640,8,,,,,,,,,
